@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-005305.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-011332.html)
 
 # Deep Cat
 
@@ -13,6 +13,10 @@ A single-file first-person shooter level playable directly in your browser: dusk
 ![Mission intro](screenshots/mission-intro.webp)
 
 ![Weapon inspect](screenshots/inspect.webp)
+
+![Enemy reflections](screenshots/enemy-reflection.webp)
+
+![Kill burst](screenshots/kill-burst.webp)
 
 ![Boss intro](screenshots/boss-intro.webp)
 
@@ -41,12 +45,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-005305.html](DeepCat-20261115-005305.html)**
+**[DeepCat-20261115-011332.html](DeepCat-20261115-011332.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,855,677 bytes
-- SHA-256: `06629236603ea2f37bc73f820711d7848fe349e9a582e14bba519d5d5a57682f`
+- File size: 6,856,731 bytes
+- SHA-256: `14cc0ac47b8b491c6f0fbd63bc1500b1bec206d19677b7a1bf87c0b76f505e1d`
 
 ## Controls
 
@@ -70,8 +74,9 @@ No installation, no internet connection, and no local server required. The lates
 - Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake, radio subtitles (saved locally)
 - Boss-checkpoint retry; S/A/B/C rating, score and local best on victory
 - Cinematic boss intro with letterbox, four procedural tentacles and a wet clearcoat carapace
-- Soft contact shadows under every enemy, instanced death debris and SMAA anti-aliasing
+- Soft contact shadows under every enemy, enemy bodies reflected in puddles, contact shadows excluded from the mirror pass, instanced death debris and SMAA anti-aliasing
 - TAA temporal accumulation + camera motion blur; high/medium use TAA + SMAA
+- Small-enemy kill: vertical shock ring, 52 sparks, 14–22 debris shards, 0.09s slow motion and camera shake
 - First-person legs, F-key weapon inspect, enemy hit recoil and 0.5s death collapse
 - Mission intro card + radio subtitles/chatter; cargo gantry, floodlight tower and distant ships
 - New street clutter (bags, boxes, pallets, cones, pipes, AC units) across the main street
