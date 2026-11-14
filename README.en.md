@@ -1,5 +1,7 @@
 **English** | [简体中文](README.md)
 
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261114-225409.html)
+
 # Deep Cat
 
 > 《深度求猫》 — a play on DeepSeek's Chinese name, 深度求索.
@@ -25,14 +27,16 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 ## Play now
 
-Download and open:
+**Play in browser:** https://mjhuang666.github.io/deep-cat/
 
-**[DeepCat-20261114-025257.html](DeepCat-20261114-025257.html)**
+Or download and open:
 
-No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended.
+**[DeepCat-20261114-225409.html](DeepCat-20261114-225409.html)**
 
-- File size: 6,780,261 bytes
-- SHA-256: `5f93a55e25f36ef83edc8fe0aebfa1a6b0dce5a6303e82eb21dd78d420591bac`
+No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
+
+- File size: 6,804,401 bytes
+- SHA-256: `a99f3bb855457f5d1cf14d0645c38791a2aef7f9a3d733e76f5306fdbfb146f3`
 
 ## Controls
 
@@ -49,9 +53,12 @@ No installation, no internet connection, and no local server required. The lates
 ## Features
 
 - Three drone waves → container-yard ground enemies → seaside boss “Tide Beast” → extraction
-- 30-round magazine with 1000 reserve rounds
+- 30-round magazine with 150 reserve rounds; kills drop ammo/health and damage falls off beyond 20 m
 - Sci-fi plasma laser boss and off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
+- Three procedural music layers: ambient pad / combat pulse / boss dissonance
+- Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake (saved locally)
+- Boss-checkpoint retry; S/A/B/C rating, score and local best on victory
 - All assets embedded; runs offline as a single file
 
 ## Notes
