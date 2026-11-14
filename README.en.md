@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261114-234612.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-005305.html)
 
 # Deep Cat
 
@@ -9,6 +9,10 @@
 A made-in-China AAA-style game built entirely with DeepSeek v4.1 Flash.
 
 A single-file first-person shooter level playable directly in your browser: dusk, light rain, four interconnected alleys, a container yard and a seaside sunset. Fight your way from the neon-lit streets to the seaside boss, the Tide Beast.
+
+![Mission intro](screenshots/mission-intro.webp)
+
+![Weapon inspect](screenshots/inspect.webp)
 
 ![Boss intro](screenshots/boss-intro.webp)
 
@@ -37,12 +41,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261114-234612.html](DeepCat-20261114-234612.html)**
+**[DeepCat-20261115-005305.html](DeepCat-20261115-005305.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,872,072 bytes
-- SHA-256: `1cbecfacac16edc49cf121fbdc9a46877658287449fddebcfc8e83f1ac38bffe`
+- File size: 6,855,677 bytes
+- SHA-256: `06629236603ea2f37bc73f820711d7848fe349e9a582e14bba519d5d5a57682f`
 
 ## Controls
 
@@ -63,11 +67,14 @@ No installation, no internet connection, and no local server required. The lates
 - Sci-fi plasma laser boss and off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
 - Three procedural music layers: ambient pad / combat pulse / boss dissonance
-- Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake (saved locally)
+- Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake, radio subtitles (saved locally)
 - Boss-checkpoint retry; S/A/B/C rating, score and local best on victory
 - Cinematic boss intro with letterbox, four procedural tentacles and a wet clearcoat carapace
 - Soft contact shadows under every enemy, instanced death debris and SMAA anti-aliasing
-- Cargo gantry, floodlight tower and distant ship silhouettes around the seaside arena
+- TAA temporal accumulation + camera motion blur; high/medium use TAA + SMAA
+- First-person legs, F-key weapon inspect, enemy hit recoil and 0.5s death collapse
+- Mission intro card + radio subtitles/chatter; cargo gantry, floodlight tower and distant ships
+- New street clutter (bags, boxes, pallets, cones, pipes, AC units) across the main street
 - All assets embedded; runs offline as a single file
 
 ## Notes
