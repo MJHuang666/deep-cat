@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-013411.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-021626.html)
 
 # Deep Cat
 
@@ -17,6 +17,10 @@ A single-file first-person shooter level playable directly in your browser: dusk
 ![Enemy reflections](screenshots/enemy-reflection.webp)
 
 ![Kill burst](screenshots/kill-burst.webp)
+
+![Boss laser sweep](screenshots/laser-sweep.webp)
+
+![Boss laser scorch](screenshots/laser-scorch.webp)
 
 ![Voxel settle](screenshots/voxel-settle.webp)
 
@@ -47,12 +51,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-013411.html](DeepCat-20261115-013411.html)**
+**[DeepCat-20261115-021626.html](DeepCat-20261115-021626.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,860,524 bytes
-- SHA-256: `bfef8a0c2f9bd6e464eb99f9fb95f016e3a060a7b592c3ac703fbb2d281d38e7`
+- File size: 6,864,679 bytes
+- SHA-256: `fdb6cfe211789e8a45502258575bc616e41ce9ae187c1ca45dcbfbf9fa6ebe9f`
 
 ## Controls
 
@@ -70,7 +74,7 @@ No installation, no internet connection, and no local server required. The lates
 
 - Three drone waves → container-yard ground enemies → seaside boss “Tide Beast” → extraction
 - 30-round magazine with 150 reserve rounds; kills drop ammo/health and damage falls off beyond 20 m
-- Sci-fi plasma laser boss and off-screen enemy direction markers
+- Sci-fi plasma laser boss: sweeps the ground first, leaves scorch marks and black smoke, then lifts to the player; off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
 - Three procedural music layers: ambient pad / combat pulse / boss dissonance
 - Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake, radio subtitles (saved locally)
@@ -79,7 +83,8 @@ No installation, no internet connection, and no local server required. The lates
 - Soft contact shadows under every enemy, enemy bodies reflected in puddles, contact shadows excluded from the mirror pass, instanced death debris and SMAA anti-aliasing
 - TAA temporal accumulation + camera motion blur; high/medium use TAA + SMAA
 - Small-enemy kill: cyberpunk voxel shatter (46–70 metal/neon cubes with gravity, ground bounce, spin and settle/fade), 0.09s slow motion, camera shake, RGB split and a digital shatter sound; no double-ring explosion
-- First-person legs, F-key weapon inspect, enemy hit recoil and 0.5s death collapse
+- F-key weapon inspect and enemy hit recoil; small enemies shatter into cyberpunk voxel cubes
+- First-kill prewarm for instance colors, voxel and scorch materials removes the first-kill hitch
 - Mission intro card + radio subtitles/chatter; cargo gantry, floodlight tower and distant ships
 - New street clutter (bags, boxes, pallets, cones, pipes, AC units) across the main street
 - All assets embedded; runs offline as a single file
