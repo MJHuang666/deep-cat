@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-031956.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-032953.html)
 
 # Deep Cat
 
@@ -55,12 +55,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-031956.html](DeepCat-20261115-031956.html)**
+**[DeepCat-20261115-032953.html](DeepCat-20261115-032953.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,868,154 bytes
-- SHA-256: `55e8f19d527f2e23ea9faff0a680961d84384053ffd7340198184df1afcabc2a`
+- File size: 6,868,284 bytes
+- SHA-256: `d773a8401af0badde8636a6b2c7219d9d4d6645c0b1a346a1588b11957c16b7b`
 
 ## Controls
 

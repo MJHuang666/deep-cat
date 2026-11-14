@@ -1,6 +1,6 @@
 [English](README.en.md) | **简体中文**
 
-**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-031956.html)
+**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-032953.html)
 
 # Deep Cat — 《深度求猫》
 
@@ -55,12 +55,12 @@
 
 或下载并双击打开：
 
-**[DeepCat-20261115-031956.html](DeepCat-20261115-031956.html)**
+**[DeepCat-20261115-032953.html](DeepCat-20261115-032953.html)**
 
 无需安装、无需联网、无需本地服务器。建议使用最新版 Chrome / Edge。在线版与下载版内容一致。
 
-- 文件大小：6,868,154 字节
-- SHA-256：`55e8f19d527f2e23ea9faff0a680961d84384053ffd7340198184df1afcabc2a`
+- 文件大小：6,868,284 字节
+- SHA-256：`d773a8401af0badde8636a6b2c7219d9d4d6645c0b1a346a1588b11957c16b7b`
 
 ## 操作
 
