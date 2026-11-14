@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-# Deep Cat — “Deep Seeking Cat”
+# Deep Cat
 
 > 《深度求猫》 — a play on DeepSeek's Chinese name, 深度求索.
 
