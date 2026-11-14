@@ -1,6 +1,6 @@
 [English](README.en.md) | **简体中文**
 
-**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-021626.html)
+**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-031956.html)
 
 # Deep Cat — 《深度求猫》
 
@@ -19,6 +19,14 @@
 ![像素碎块落地](screenshots/voxel-settle.webp)
 
 ![Boss 登场](screenshots/boss-intro.webp)
+
+![Boss 激光](screenshots/laser-sky.webp)
+
+![Boss 激光砸地](screenshots/laser-ground.webp)
+
+![Boss 激光抬升](screenshots/laser-sweep.webp)
+
+![Boss 激光灼烧](screenshots/laser-scorch.webp)
 
 ![Boss 击杀](screenshots/boss-kill.webp)
 
@@ -47,12 +55,12 @@
 
 或下载并双击打开：
 
-**[DeepCat-20261115-021626.html](DeepCat-20261115-021626.html)**
+**[DeepCat-20261115-031956.html](DeepCat-20261115-031956.html)**
 
 无需安装、无需联网、无需本地服务器。建议使用最新版 Chrome / Edge。在线版与下载版内容一致。
 
-- 文件大小：6,864,679 字节
-- SHA-256：`fdb6cfe211789e8a45502258575bc616e41ce9ae187c1ca45dcbfbf9fa6ebe9f`
+- 文件大小：6,868,154 字节
+- SHA-256：`55e8f19d527f2e23ea9faff0a680961d84384053ffd7340198184df1afcabc2a`
 
 ## 操作
 
@@ -70,7 +78,7 @@
 
 - 三波无人机 → 港区地面怪 → 海边 Boss「潮汐兽」→ 撤离
 - 弹匣 30 发，备弹 150 发；击杀掉落弹药/医疗包，20m 外伤害逐步衰减
-- 科幻等离子激光 Boss：先沿地面扫射、留下灼烧贴花与黑烟，再抬升到玩家胸口；屏幕外敌人方向指示
+- 镭射眼式 Boss 激光：面部中央发射白热核心 + 红色外焰，先砸地溅火花、留下灼烧与黑烟，再抬起越过 Boss 射向远处天空；落点 6m 范围伤害；屏幕外敌人方向指示
 - Boss 击杀演出：慢动作、冲击波、能量光柱、上升能量环、延迟爆点、击杀横幅与专属音效
 - 程序化 3 层音乐：环境 pad / 战斗脉冲低音 / Boss 不协和层
 - 设置面板：鼠标灵敏度、FOV、主音量、反转 Y、镜头震动、无线电字幕（本地保存）
