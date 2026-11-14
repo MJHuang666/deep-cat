@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-032953.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-075734.html)
 
 # Deep Cat
 
@@ -17,6 +17,8 @@ A single-file first-person shooter level playable directly in your browser: dusk
 ![Enemy reflections](screenshots/enemy-reflection.webp)
 
 ![Kill burst](screenshots/kill-burst.webp)
+
+![Boss laser telegraph](screenshots/laser-telegraph.webp)
 
 ![Boss laser](screenshots/laser-sky.webp)
 
@@ -55,12 +57,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-032953.html](DeepCat-20261115-032953.html)**
+**[DeepCat-20261115-075734.html](DeepCat-20261115-075734.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,868,284 bytes
-- SHA-256: `d773a8401af0badde8636a6b2c7219d9d4d6645c0b1a346a1588b11957c16b7b`
+- File size: 6,875,433 bytes
+- SHA-256: `9fd51118524d70d9c16039bfff20bd3356030d25447ec51a883ac7887b913edd`
 
 ## Controls
 
@@ -78,7 +80,7 @@ No installation, no internet connection, and no local server required. The lates
 
 - Three drone waves → container-yard ground enemies → seaside boss “Tide Beast” → extraction
 - 30-round magazine with 150 reserve rounds; kills drop ammo/health and damage falls off beyond 20 m
-- Cyclops-style boss laser: a white-hot core with a red halo fires from the face, slams the ground with sparks, scorch and black smoke, then rises over the boss into the distant sky; 6 m ground blast; off-screen enemy direction markers
+- Cyclops-style boss laser: a white-hot core with a red halo fires from the face, slams the ground with sparks, scorch and black smoke, then levels out and rakes across the distance; ground targeting ring during the charge; 6 m ground blast; off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
 - Three procedural music layers: ambient pad / combat pulse / boss dissonance
 - Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake, radio subtitles (saved locally)
