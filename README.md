@@ -1,6 +1,6 @@
 [English](README.en.md) | **简体中文**
 
-**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-011332.html)
+**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-013411.html)
 
 # Deep Cat — 《深度求猫》
 
@@ -15,6 +15,8 @@
 ![敌人倒影](screenshots/enemy-reflection.webp)
 
 ![小怪击杀](screenshots/kill-burst.webp)
+
+![像素碎块落地](screenshots/voxel-settle.webp)
 
 ![Boss 登场](screenshots/boss-intro.webp)
 
@@ -45,12 +47,12 @@
 
 或下载并双击打开：
 
-**[DeepCat-20261115-011332.html](DeepCat-20261115-011332.html)**
+**[DeepCat-20261115-013411.html](DeepCat-20261115-013411.html)**
 
 无需安装、无需联网、无需本地服务器。建议使用最新版 Chrome / Edge。在线版与下载版内容一致。
 
-- 文件大小：6,856,731 字节
-- SHA-256：`14cc0ac47b8b491c6f0fbd63bc1500b1bec206d19677b7a1bf87c0b76f505e1d`
+- 文件大小：6,860,524 字节
+- SHA-256：`bfef8a0c2f9bd6e464eb99f9fb95f016e3a060a7b592c3ac703fbb2d281d38e7`
 
 ## 操作
 
@@ -76,7 +78,7 @@
 - Boss 登场 letterbox 名称卡、4 条程序化触手、湿滑 clearcoat 甲壳
 - 所有敌人脚下有软接触阴影，敌人本体进入水面/积水倒影，接触阴影单独排除在反射之外；击杀爆出实例化碎片；SMAA 抗锯齿
 - TAA 时域累积 + 相机运动模糊；high/medium 为 TAA+SMAA
-- 小怪击杀：垂直冲击环、52 颗火花、14–22 块碎片、0.09s 慢动作和镜头震动
+- 小怪击杀：赛博朋克像素立方块解体（46–70 块金属/霓虹方块，重力/落地反弹/旋转/停留淡出），0.09s 慢动作、镜头震动、RGB split 和数字碎裂音效；不再使用双圈爆炸
 - 第一人称腿部、F 检视武器、敌人受击后仰与 0.5s 死亡坍塌
 - 开局任务卡 + 无线电字幕/chatter；港区吊机、灯塔与远处船影
 - 主街新增垃圾袋/纸箱/托盘/锥桶/落水管/空调外机，提升全街道密度

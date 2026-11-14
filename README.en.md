@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-011332.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-013411.html)
 
 # Deep Cat
 
@@ -17,6 +17,8 @@ A single-file first-person shooter level playable directly in your browser: dusk
 ![Enemy reflections](screenshots/enemy-reflection.webp)
 
 ![Kill burst](screenshots/kill-burst.webp)
+
+![Voxel settle](screenshots/voxel-settle.webp)
 
 ![Boss intro](screenshots/boss-intro.webp)
 
@@ -45,12 +47,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-011332.html](DeepCat-20261115-011332.html)**
+**[DeepCat-20261115-013411.html](DeepCat-20261115-013411.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,856,731 bytes
-- SHA-256: `14cc0ac47b8b491c6f0fbd63bc1500b1bec206d19677b7a1bf87c0b76f505e1d`
+- File size: 6,860,524 bytes
+- SHA-256: `bfef8a0c2f9bd6e464eb99f9fb95f016e3a060a7b592c3ac703fbb2d281d38e7`
 
 ## Controls
 
@@ -76,7 +78,7 @@ No installation, no internet connection, and no local server required. The lates
 - Cinematic boss intro with letterbox, four procedural tentacles and a wet clearcoat carapace
 - Soft contact shadows under every enemy, enemy bodies reflected in puddles, contact shadows excluded from the mirror pass, instanced death debris and SMAA anti-aliasing
 - TAA temporal accumulation + camera motion blur; high/medium use TAA + SMAA
-- Small-enemy kill: vertical shock ring, 52 sparks, 14–22 debris shards, 0.09s slow motion and camera shake
+- Small-enemy kill: cyberpunk voxel shatter (46–70 metal/neon cubes with gravity, ground bounce, spin and settle/fade), 0.09s slow motion, camera shake, RGB split and a digital shatter sound; no double-ring explosion
 - First-person legs, F-key weapon inspect, enemy hit recoil and 0.5s death collapse
 - Mission intro card + radio subtitles/chatter; cargo gantry, floodlight tower and distant ships
 - New street clutter (bags, boxes, pallets, cones, pipes, AC units) across the main street
