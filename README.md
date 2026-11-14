@@ -1,3 +1,5 @@
+[English](README.en.md) | **简体中文**
+
 # Deep Cat — 《深度求猫》
 
 一款全程由DeepSeek v4.1 Flash制作的国产3A作品
