@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261114-225409.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261114-234612.html)
 
 # Deep Cat
 
@@ -9,6 +9,12 @@
 A made-in-China AAA-style game built entirely with DeepSeek v4.1 Flash.
 
 A single-file first-person shooter level playable directly in your browser: dusk, light rain, four interconnected alleys, a container yard and a seaside sunset. Fight your way from the neon-lit streets to the seaside boss, the Tide Beast.
+
+![Boss intro](screenshots/boss-intro.webp)
+
+![Boss kill](screenshots/boss-kill.webp)
+
+![Harbor](screenshots/harbor.webp)
 
 ## Made entirely with OpenCode + DeepSeek v4.1 Flash
 
@@ -31,12 +37,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261114-225409.html](DeepCat-20261114-225409.html)**
+**[DeepCat-20261114-234612.html](DeepCat-20261114-234612.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,804,401 bytes
-- SHA-256: `a99f3bb855457f5d1cf14d0645c38791a2aef7f9a3d733e76f5306fdbfb146f3`
+- File size: 6,872,072 bytes
+- SHA-256: `1cbecfacac16edc49cf121fbdc9a46877658287449fddebcfc8e83f1ac38bffe`
 
 ## Controls
 
@@ -59,6 +65,9 @@ No installation, no internet connection, and no local server required. The lates
 - Three procedural music layers: ambient pad / combat pulse / boss dissonance
 - Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake (saved locally)
 - Boss-checkpoint retry; S/A/B/C rating, score and local best on victory
+- Cinematic boss intro with letterbox, four procedural tentacles and a wet clearcoat carapace
+- Soft contact shadows under every enemy, instanced death debris and SMAA anti-aliasing
+- Cargo gantry, floodlight tower and distant ship silhouettes around the seaside arena
 - All assets embedded; runs offline as a single file
 
 ## Notes

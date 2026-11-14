@@ -1,12 +1,18 @@
 [English](README.en.md) | **简体中文**
 
-**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261114-225409.html)
+**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261114-234612.html)
 
 # Deep Cat — 《深度求猫》
 
 一款全程由DeepSeek v4.1 Flash制作的国产3A作品
 
 可直接在浏览器中游玩的单文件第一人称射击关卡：黄昏、小雨、四条互通巷道、集装箱货场与海边日落，从霓虹街区一路打到海边 Boss「潮汐兽」。
+
+![Boss 登场](screenshots/boss-intro.webp)
+
+![Boss 击杀](screenshots/boss-kill.webp)
+
+![港区](screenshots/harbor.webp)
 
 
 ## 全程由OpenCode + DeepSeek v4.1 Flash 制作
@@ -31,12 +37,12 @@
 
 或下载并双击打开：
 
-**[DeepCat-20261114-225409.html](DeepCat-20261114-225409.html)**
+**[DeepCat-20261114-234612.html](DeepCat-20261114-234612.html)**
 
 无需安装、无需联网、无需本地服务器。建议使用最新版 Chrome / Edge。在线版与下载版内容一致。
 
-- 文件大小：6,804,401 字节
-- SHA-256：`a99f3bb855457f5d1cf14d0645c38791a2aef7f9a3d733e76f5306fdbfb146f3`
+- 文件大小：6,872,072 字节
+- SHA-256：`1cbecfacac16edc49cf121fbdc9a46877658287449fddebcfc8e83f1ac38bffe`
 
 ## 操作
 
@@ -59,6 +65,9 @@
 - 程序化 3 层音乐：环境 pad / 战斗脉冲低音 / Boss 不协和层
 - 设置面板：鼠标灵敏度、FOV、主音量、反转 Y、镜头震动（本地保存）
 - Boss 战死亡可从 Boss 前重试；胜利结算 S/A/B/C 评级、得分与本地最佳纪录
+- Boss 登场 letterbox 名称卡、4 条程序化触手、湿滑 clearcoat 甲壳
+- 所有敌人脚下有软接触阴影，击杀爆出实例化碎片；SMAA 抗锯齿
+- 港区边缘吊机、探照灯塔与远处船影，增强海边 arena 的尺度
 - 单文件离线运行
 
 ## 说明
