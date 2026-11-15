@@ -1,6 +1,6 @@
 [English](README.en.md) | **简体中文**
 
-**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-105550.html)
+**▶ [在线试玩](https://mjhuang666.github.io/deep-cat/)** · [下载单文件](DeepCat-20261115-112239.html)
 
 # Deep Cat — 《深度求猫》
 
@@ -34,6 +34,8 @@
 
 ![港区](screenshots/harbor.webp)
 
+![墙面](screenshots/wall-facade.webp)
+
 
 ## 全程由OpenCode + DeepSeek v4.1 Flash 制作
 所有画面，音效，光影，动作，均由deepseek生成，制作成本不到5刀。
@@ -57,12 +59,12 @@
 
 或下载并双击打开：
 
-**[DeepCat-20261115-105550.html](DeepCat-20261115-105550.html)**
+**[DeepCat-20261115-112239.html](DeepCat-20261115-112239.html)**
 
 无需安装、无需联网、无需本地服务器。建议使用最新版 Chrome / Edge。在线版与下载版内容一致。
 
-- 文件大小：6,875,758 字节
-- SHA-256：`5c4435538881e449a1b6581686f3f4c12fcc5a94f60f4c777eb73fb64435cc45`
+- 文件大小：6,876,238 字节
+- SHA-256：`8dfd814981f54a710773bbe6dd456ce9e0b9404bae9ed5b7a93cc5d51224906f`
 
 ## 操作
 
