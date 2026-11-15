@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-075734.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-083641.html)
 
 # Deep Cat
 
@@ -8,7 +8,7 @@
 
 A made-in-China AAA-style game built entirely with DeepSeek v4.1 Flash.
 
-A single-file first-person shooter level playable directly in your browser: dusk, light rain, four interconnected alleys, a container yard and a seaside sunset. Fight your way from the neon-lit streets to the seaside boss, the Tide Beast.
+A single-file first-person shooter level playable directly in your browser: dusk, light rain, four interconnected alleys, a container yard and a seaside sunset. Fight your way from the neon-lit streets to the seaside boss, the Anthropic · 封号兽.
 
 ![Mission intro](screenshots/mission-intro.webp)
 
@@ -57,12 +57,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-075734.html](DeepCat-20261115-075734.html)**
+**[DeepCat-20261115-083641.html](DeepCat-20261115-083641.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,875,433 bytes
-- SHA-256: `9fd51118524d70d9c16039bfff20bd3356030d25447ec51a883ac7887b913edd`
+- File size: 6,874,125 bytes
+- SHA-256: `f1e4ce6a245b5ed5bc11762d2a91d5a8a1db95ad4c6c4882ed15d0be50e88f12`
 
 ## Controls
 
@@ -78,7 +78,7 @@ No installation, no internet connection, and no local server required. The lates
 
 ## Features
 
-- Three drone waves → container-yard ground enemies → seaside boss “Tide Beast” → extraction
+- Three drone waves → container-yard ground enemies → seaside boss “Anthropic · 封号兽” → extraction
 - 30-round magazine with 150 reserve rounds; kills drop ammo/health and damage falls off beyond 20 m
 - Cyclops-style boss laser: a white-hot core with a red halo fires from the face, slams the ground with sparks, scorch and black smoke, then levels out and rakes across the distance; ground targeting ring during the charge; 6 m ground blast; off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
