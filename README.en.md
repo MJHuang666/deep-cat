@@ -1,6 +1,6 @@
 **English** | [简体中文](README.md)
 
-**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-093527.html)
+**▶ [Play in browser](https://mjhuang666.github.io/deep-cat/)** · [Download the single file](DeepCat-20261115-105550.html)
 
 # Deep Cat
 
@@ -57,12 +57,12 @@ Fable 5.2's Saltline recently went viral, and its results were stunning. I was c
 
 Or download and open:
 
-**[DeepCat-20261115-093527.html](DeepCat-20261115-093527.html)**
+**[DeepCat-20261115-105550.html](DeepCat-20261115-105550.html)**
 
 No installation, no internet connection, and no local server required. The latest Chrome / Edge is recommended. The browser and download versions are identical.
 
-- File size: 6,875,223 bytes
-- SHA-256: `211b51ae662781c91136f14640224094cd1cf215ea413c740198ebacd70946d3`
+- File size: 6,875,758 bytes
+- SHA-256: `5c4435538881e449a1b6581686f3f4c12fcc5a94f60f4c777eb73fb64435cc45`
 
 ## Controls
 
@@ -80,7 +80,7 @@ No installation, no internet connection, and no local server required. The lates
 
 - Three drone waves → container-yard ground enemies → seaside boss “Anthropic · 封号兽” → extraction
 - 30-round magazine with 150 reserve rounds; kills drop ammo/health and damage falls off beyond 20 m
-- Cyclops-style boss laser: a white-hot core with a red halo fires from the face, slams the ground with sparks, scorch and black smoke, then levels out while continuously extending about 40 m across the distance; ground targeting ring during the charge; 6 m ground blast; off-screen enemy direction markers
+- Cyclops-style boss laser: a white-hot core with a red halo fires from the face, slams the ground with sparks, scorch and black smoke, then tracks the player with an alternating side sweep from 1.6 m to 8.6 m; standing still gets hit, while fast strafing can outrun the tracking lag; ground targeting ring during the charge; 6 m ground blast; off-screen enemy direction markers
 - Boss kill sequence: slow motion, shockwaves, energy pillar, rising energy rings, delayed detonations, kill banner and dedicated sound design
 - Three procedural music layers: ambient pad / combat pulse / boss dissonance
 - Settings: mouse sensitivity, FOV, master volume, invert Y, screen shake, radio subtitles (saved locally)
